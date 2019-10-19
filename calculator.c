@@ -5,6 +5,10 @@ int sum(int a,int b)
     c=a+b;
     return c;
     
+int diff(int a,int b)
+{
+    int c =b-a;
+    return c;
 }
 int main()
 {
