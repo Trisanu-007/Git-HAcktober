@@ -1,4 +1,9 @@
 #include<stdio.h>
+int diff(int a,int b)
+{
+    int c =b-a;
+    return c;
+}
 int main()
 {
     int a = 5, b  = 10;
